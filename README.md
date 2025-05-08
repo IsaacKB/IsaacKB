@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Isaac K. Barbagelata
+# 👋 Olá, eu sou Isaac
 
 Desenvolvedor Full-Stack Sênior com mais de 6 anos de experiência em desenvolvimento de software para setores como financeiro, agrícola, portuário e de integração de sistemas. Tenho forte experiência em **backend** com **Node.js**, **.NET** e **Java Spring Boot**, além de expertise em **frontend** com **React.js**, **Vue.js** e **Expo.js**. Também tenho sólida experiência em **mobile** com **Flutter** e **Xamarin.Forms**, além de arquiteturas modernas como **Microservices**, **Clean Architecture** e **SOLID**.
 
